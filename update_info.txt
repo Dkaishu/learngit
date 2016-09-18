@@ -1,0 +1,6 @@
+﻿{
+	version:"2.0",
+	versionDes:"2.0版本",
+	versionCode:"2",
+	downloadUrl:"http://www.nifnagge.xyz/mobileguard.apk"
+}

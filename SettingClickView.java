@@ -48,7 +48,7 @@ public class SettingClickView extends RelativeLayout {
     public void setDes(String des){
         tv_setting_item_desc.setText(des);
     }
-
-
-
+    /**
+     * 修改测试
+     */
 }
